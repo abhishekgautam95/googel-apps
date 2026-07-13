@@ -1,0 +1,6 @@
+{
+  "name": "Learn with Abhishek Sir",
+  "description": "An interactive learning platform for Classes 5-8 featuring gamified lessons on Google Apps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
